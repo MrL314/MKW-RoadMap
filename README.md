@@ -1,6 +1,8 @@
 # Mario Kart World Road Map
 By MrL314
 
+Feel free to use these maps, however credit is very much appreciated! <3 
+
 ## Full Map w/ Roads
 ![Full Map](https://github.com/MrL314/MKW-RoadMap/blob/main/Full_Map.png)
 
