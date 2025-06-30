@@ -7,6 +7,8 @@ By MrL314
 - Black lines are "Primary Roads", as in, used in races (GP, KT, VS, TT, etc.)
 - Green lines are "Secondary Roads", not used in races
 - Red lines are Railroad Lines
+- Gray Dotted Lines are "Flight Paths"
+- Blue Dotted Lines are "Water Paths"
 
 ## Roads Only (Transparent Map)
 ![Road Map](https://github.com/MrL314/MKW-RoadMap/blob/main/Road_Map.png)
